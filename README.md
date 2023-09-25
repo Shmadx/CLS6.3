@@ -22,3 +22,4 @@
     ` git branch -M main `
 ## Перенести локальный репозиторий
     ` git push -u origin main `
+## Ссылка на более подробное обьяснение - *https://git-scm.com/book/ru/v2*
