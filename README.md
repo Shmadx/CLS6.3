@@ -3,8 +3,8 @@
 ## В файл внести изменения.
 ## Открыть git bash
 ## Залогиниться - В git Bash набрать команды) 
-    ` git config --global user.name "" `
-    `  git config --global user.email "" `
+    ` git config --global user.name  `
+    `  git config --global user.email  `
 ## Посмотреть в какой папке мы находимся 
     ` pwd `
 ## Указать путь в папку Git 
